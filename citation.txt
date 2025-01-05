@@ -1,0 +1,11 @@
+@article{REPO196,
+    author = "Peng, Yuanzhe and Wu, Yusen and Bian, Jieming and Xu, Jie",
+    doi = "10.1109/JIOT.2024.3443267",
+    journal = "IEEE Internet of Things Journal",
+    keywords = "Internet of Things;Servers;Sensors;Training;Feature extraction;Data models;Task analysis;Edge computing;federated learning (FL);multimodal Internet of Things (IoT);nonconvex optimization",
+    number = "21",
+    pages = "34055-34064",
+    title = "{Hybrid Federated Learning for Multimodal IoT Systems}",
+    volume = "11",
+    year = "2024"
+}
